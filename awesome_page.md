@@ -12,3 +12,5 @@ function test() {
 ```
 
 ![alt text](screenshot.png)
+
+new_section in new-conflict
