@@ -10,7 +10,7 @@
 *We asked mostly for clarification on the assignment. I think for the most part, Nathan and I were able to navigate through the assignment without much trouble (apart from network related issues)*
 
 
-**What still confuses you about git?
+**What still confuses you about git?** 
 *I'd like some more expereince with merge conflicts. Nathan and I did spend some extra time making changes to different parts of the same file, and it seemed as though that works just fine.*
 
 
