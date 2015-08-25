@@ -4,6 +4,7 @@
 Google [link](https://www.google.com)
 
 master branch edition
+continue editing
 
 ```
 function test() {
